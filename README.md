@@ -1,2 +1,2 @@
-# lu-25.github.io
+# lucy-25.github.io
 My first website
